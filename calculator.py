@@ -11,8 +11,8 @@ def divide(x, y):
   return x / y
 
 print("사칙연산을 선택 하세요.")
-print("1.더하기")
-print("2.빼기")
+print("1.plus")
+print("2.minus")
 print("3.곱하기")
 print("4.나누기")
 
