@@ -16,3 +16,8 @@ nero = Cat("네로", "검정색")
 print(nero.name)
 print(nero.color)
 nero.meow("어흥 쩝쩝")
+
+## 이렇게 외부에서 수정하는 것은 좋지않음.
+nero.name = "미미"
+nero.color = "갈색"
+nero.meow("어흥 쩝쩝")

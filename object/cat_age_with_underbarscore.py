@@ -1,4 +1,7 @@
 #cat_age_with_underscore.py
+
+#캡슐화
+#외부에서 수정 불가하게 전역변수 앞에 __를 붙이는 것.
 class Cat:
     def __init__(self , name , age):
         self.__name = name

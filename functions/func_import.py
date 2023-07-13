@@ -1,3 +1,5 @@
+#func_import.py
+
 import func_kwargs
 from func_args import 함수
 from func_kwargs import *
@@ -38,5 +40,6 @@ b = np.array(list_2)
 print(list_1 + list_2)
 
 ###
+
 
 

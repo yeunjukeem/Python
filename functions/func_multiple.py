@@ -1,3 +1,4 @@
+#func_multiple.py
 # a, b, c 매개변수
 def multiple(a, b, c):
     num = a*b*c

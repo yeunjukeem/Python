@@ -35,5 +35,5 @@ def input_sum(*args):
     return num
 data = input_sum()
 print(data)
-# result = input_sum(1,5,6,4,3,100)
-# print(result)
+
+

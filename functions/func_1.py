@@ -1,3 +1,5 @@
+#func_1.py
+#function 시작
 def even_sum():
     num = 0
     for i in range(11):

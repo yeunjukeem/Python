@@ -10,8 +10,8 @@ class Cat:
     def lotto(self):
         print(f'내 이름은 {self.name}, 색깔은 {self.color},야옹 야~옹~~')
     
-    nabi = Cat("나비", "흰색")
-    nero = Cat("네로", "검정색")
+nabi = Cat("나비", "흰색")
+nero = Cat("네로", "검정색")
 
-    print(nabi)
-    print(nero)
+nabi.lotto()
+nero.lotto()
